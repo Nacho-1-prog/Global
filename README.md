@@ -175,4 +175,4 @@ Terminados los inputs. Se imprime por pantalla un menu con diferentes opciones:
 * Por ultimo "Salir": Termina la ejecucion del programa". Imprimiendo un mensaje al finalizar.
   * Entrada (inputs): 5
   * Salida (outputs):
-      _Gracias por utilziar el programa. Vuelva pronto._
+      _Gracias por utilizar el programa. Vuelva pronto._
