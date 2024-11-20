@@ -9,7 +9,7 @@
   * Osorio Alejo Marcelino
 
 <ins>**Ejecucion del programa:**</ins>
-1. Clonar el [repositorio](https://) en tu máquina local.
+1. Clonar el [repositorio](https://github.com/GrupoPython-9/Global)) en tu máquina local.
 2. Ejecutar el archivo "ejecutable.py".
 3. Ingresar la matriz de ADN.
 4. Seleccionar las opciones que desee ejecutar.
